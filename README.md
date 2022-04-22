@@ -1,2 +1,0 @@
-# lunarsociety
-our site
